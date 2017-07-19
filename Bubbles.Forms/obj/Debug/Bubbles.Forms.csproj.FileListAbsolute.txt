@@ -1,0 +1,11 @@
+c:\Users\Leonardo\documents\visual studio 2013\Projects\Bubbles\Bubbles.Forms\bin\Debug\Bubbles.Forms.exe.config
+C:\Users\Leonardo\documents\visual studio 2013\Projects\Bubbles\Bubbles.Forms\obj\Debug\Bubbles.Forms.csproj.ResolveComReference.cache
+C:\Users\Leonardo\documents\visual studio 2013\Projects\Bubbles\Bubbles.Forms\obj\Debug\Bubbles.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\documents\visual studio 2013\Projects\Bubbles\Bubbles.Forms\obj\Debug\Bubbles.Forms.Panel.resources
+C:\Users\Leonardo\documents\visual studio 2013\Projects\Bubbles\Bubbles.Forms\obj\Debug\Bubbles.Forms.InputBox.resources
+C:\Users\Leonardo\documents\visual studio 2013\Projects\Bubbles\Bubbles.Forms\obj\Debug\Bubbles.Forms.Properties.Resources.resources
+C:\Users\Leonardo\documents\visual studio 2013\Projects\Bubbles\Bubbles.Forms\obj\Debug\Bubbles.Forms.csproj.GenerateResource.Cache
+C:\Users\Leonardo\documents\visual studio 2013\Projects\Bubbles\Bubbles.Forms\bin\Debug\Bubbles.Forms.exe
+C:\Users\Leonardo\documents\visual studio 2013\Projects\Bubbles\Bubbles.Forms\bin\Debug\Bubbles.Forms.pdb
+C:\Users\Leonardo\documents\visual studio 2013\Projects\Bubbles\Bubbles.Forms\obj\Debug\Bubbles.Forms.exe
+C:\Users\Leonardo\documents\visual studio 2013\Projects\Bubbles\Bubbles.Forms\obj\Debug\Bubbles.Forms.pdb
